@@ -1,0 +1,14 @@
+{
+  "name": "com.modmanagement",
+  "version": "1.0.0",
+  "displayName": "Mod Management",
+  "description": "For loading data associated with mods",
+  "unity": "2019.4",
+  "dependencies": {},
+  "keywords": [
+    "mod",
+    "modification",
+    "mods"
+  ],
+  "hideInEditor": false
+}
